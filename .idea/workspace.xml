@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afdebc66-d0a9-47a6-9aba-696d9ea238b4" name="Default Changelist" comment="" />
+    <list default="true" id="afdebc66-d0a9-47a6-9aba-696d9ea238b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/drush/drush/examples/Commands/art/sandwich.txt" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/drush/drush/examples/Commands/art/sandwich.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/squizlabs/php_codesniffer/src/Standards/Generic/Tests/Files/LineEndingsUnitTest.css" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/squizlabs/php_codesniffer/src/Standards/Generic/Tests/Files/LineEndingsUnitTest.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/squizlabs/php_codesniffer/src/Standards/Generic/Tests/Files/LineEndingsUnitTest.inc" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/squizlabs/php_codesniffer/src/Standards/Generic/Tests/Files/LineEndingsUnitTest.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/squizlabs/php_codesniffer/src/Standards/Generic/Tests/Files/LineEndingsUnitTest.js" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/squizlabs/php_codesniffer/src/Standards/Generic/Tests/Files/LineEndingsUnitTest.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +22,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -156,7 +168,10 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1RNXiG5dPvt6GhZhTaZqr3e7zEo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunDashboard">
@@ -181,11 +196,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569508652029</updated>
-      <workItem from="1569508653115" duration="274000" />
+      <workItem from="1569508653115" duration="1818000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

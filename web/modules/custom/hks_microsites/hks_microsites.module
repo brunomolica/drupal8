@@ -1,0 +1,49 @@
+<?php
+
+/**
+ * @file
+ * Contains hks_microsites.module.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function hks_microsites_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the hks_microsites module.
+    case 'help.page.hks_microsites':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('Customization, adjustments and enhancements for HKS Microsites') . '</p>';
+      return $output;
+
+    default:
+  }
+}
+
+/**
+ * Implements hook_theme().
+ */
+function hks_microsites_theme() {
+  return [
+    'hks_microsites' => [
+      'render element' => 'children',
+    ],
+  ];
+}
+
+/**
+ * Implements hook_theme().
+ */
+function hks_microsites_theme() {
+  return [
+    'top_menu_microsites' => [
+      'variables' => [
+        'content' => NULL
+      ],
+      'render element' => 'children',
+    ],
+  ];
+}
