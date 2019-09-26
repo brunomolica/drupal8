@@ -1,0 +1,8 @@
+name: drupal8
+recipe: drupal8
+config:
+  webroot: web
+  drush: ^8
+database:
+  type: mariadb:10.1
+  portforward: 33066
